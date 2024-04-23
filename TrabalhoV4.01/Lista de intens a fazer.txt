@@ -1,0 +1,11 @@
+Buscar aluno com o nome (OK)
+
+Buscar Aluno com ra (OK)
+
+Deletar aluno da tabela (OK)
+
+Deletar aluno do arquivo ( OK)
+
+Editar aluno por nome na tabela (OK )
+
+Editar Aluno por nome no arquivo ( OK)
